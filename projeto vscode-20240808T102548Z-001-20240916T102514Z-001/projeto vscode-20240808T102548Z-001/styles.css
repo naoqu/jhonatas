@@ -1,0 +1,40 @@
+body {
+    color: hsl(241, 100%, 25%);
+    background:#000000 
+    margin: 0px;
+    font-family: "Exo 2", sans-serif;
+
+}
+
+header {
+
+border-bottom: solid 2px white;
+padding: 20px;
+font-size: 32;
+color:black;
+
+
+}
+
+
+section{
+
+    background: black
+padding-botton: 80px;
+padding-top: 80px;
+display:flex ;
+justify-content: center 
+
+}
+
+.chamada-texto{
+
+    margin-right: 5%
+}
+
+h1{
+
+    font-size: 40px;
+}
+
+P{}
